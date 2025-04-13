@@ -1,0 +1,15 @@
+Task1:
+
+create tasks in Jenkins
+
+solution:
+
+logged in Jenkins and created jobs which uses GitHub repositories and maven 
+
+Task 2:
+
+Running a apache server in aws
+
+solution:
+
+downloaded the apache zip file in the terminal in aws. The file was extracted then the apache server was run. 

@@ -1,0 +1,9 @@
+Task1
+creating a order service and user service application
+
+Solution:
+We used dockers to automate the process of creating the application by providing the required codes
+
+
+Task2:
+Creation of clusters in AWS

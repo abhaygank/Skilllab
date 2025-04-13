@@ -1,0 +1,15 @@
+Task1
+
+Updating read/write/execute privileges for a file
+
+solution
+
+using the chmod command we changed the privileges for user, small group and organizations
+
+Task 2
+
+To start up jenkins
+
+solution
+
+Using aws Jenkins are was launched 
